@@ -6,25 +6,25 @@ const languages = [
     code: "en",
   },
   {no:"2",
-  name: "Bengali",
+  name: "Bengali (বাংলা)",
   native: "বাংলা",
   code: "bn-IN"
   },
   {no:"3",
-  name:"Punjabi",
+  name:"Punjabi (ਪੰਜਾਬੀ)",
   native: "ਪੰਜਾਬੀ",
   code: "pa-IN"
   },
   {
     no: "4",
-    name: "Hindi",
+    name: "Hindi (िन्दी)",
     native: "हिन्दी",
     code: "hi",
   },
   
   {
     no: "55",
-    name: "Urdu",
+    name: "Urdu (اردو)",
     native: "اردو",
     code: "ur",
   },
